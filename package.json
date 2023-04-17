@@ -1,0 +1,19 @@
+{
+  "name": "text-ai-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-api": "^0.0.1",
+    "discord-api-types": "^0.37.37",
+    "discord.js": "^14.8.0",
+    "openai": "^3.2.1",
+    "update": "^0.7.4",
+    "ws": "^8.13.0"
+  }
+}
